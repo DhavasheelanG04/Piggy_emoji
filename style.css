@@ -1,0 +1,99 @@
+body{
+    background-color: aliceblue;
+}
+.left_ear{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: pink;
+    border-radius: 50%;
+    border: 5px solid black;
+    top: 20px;
+    left: 28px;
+}
+.right_ear{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: pink;
+    border-radius: 50%;
+    border: 5px solid black;
+    top: 20px;
+    left: 112px; 
+}
+.face{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: pink;
+    border-radius: 50%;
+    border: 5px solid black;
+    top: 25px;
+    left: 23px; 
+.left_eye{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid black;
+    top: 27px;
+    left: 20px; 
+}
+.right_eye{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid black;
+    top: 27px;
+    left: 72px; 
+}
+.pupile1{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    top: 5px;
+    left: 5px;
+}
+.pupile2{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    top: 5px;
+    left: 5px;
+}
+.nose{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    background-color:rgb(245, 88, 122);
+    border-radius: 31%;
+    border: 1px solid black;
+    top: 71px;
+    left: 33px;
+
+}
+.hole1{
+    position: absolute;
+    width: 15px;
+    height: 18px;
+    background-color: black;
+    border-radius: 50%;
+    top: 6px;
+    left: 5px;
+}
+.hole2{
+    position: absolute;
+    width: 15px;
+    height: 18px;
+    background-color: black;
+    border-radius: 50%;
+    top: 6px;
+    left: 30px;
+}
